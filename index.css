@@ -1,0 +1,10 @@
+body {
+    margin: 2px;
+}
+
+#submitBtn {
+    background: white;
+    border: 1px solid #D9DCE1;
+    border-radius: 50%;
+    color: #4F566B;
+}
